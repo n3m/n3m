@@ -1,4 +1,4 @@
-[![GitHub followers]([https://img.shields.io/github/followers/drn3mesis?label=Follow%20me&style=social](https://github.com/DrN3MESiS)
+[![GitHub followers](https://img.shields.io/github/followers/drn3mesis?label=Follow%20me&style=social)](https://github.com/DrN3MESiS)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alanmn88?label=Follow%20at%20Twitter&style=for-the-badge)](https://twitter.com/alanmn88)
 ## Hi there 👋
 
