@@ -6,7 +6,7 @@ I'm a Software Engineer from México
 - 🌱 I’m currently learning about Parallel Distributed Computing and Cloud Computing.
 - 🌱 I’m also learning about BigData and Data Science.
 
-- 🚨 Chief Technology Officer at @HandlerCo 🚨
+- 🚨 Chief Technology Officer at @Handler-Co 🚨
 
 - ⚡ I love ✨ Golang ✨ for Back-end Development, ✨ React.js ✨ for Web Front-end Development
      and ✨ React Native ✨ for Mobile Front-end Development.
