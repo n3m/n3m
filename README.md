@@ -16,7 +16,7 @@ I'm a Full-Stack Software Engineer from México
 
 <hr>
  <p align="center">
-- 🚨 Chief Technology Officer at @Handler-Co 🚨
+🚨 Chief Technology Officer at @Handler-Co 🚨
   </p>
  <p align="center">
   <a href="https://github.com/n3m"><img src="https://img.shields.io/github/followers/n3m.svg?label=GitHub&style=social" alt="GitHub"></a>
