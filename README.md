@@ -5,19 +5,10 @@
 </p>
 
 <p align="center">
-     <b>
-          <u>My name is Alan Maldonado.</u>
-     </b>
-</p>
-
-<p align="center">
-I'm a Full-Stack Software Engineer from México
+Full-Stack Software Engineer
 </p>
 
 <hr>
- <p align="center">
-🚨 Chief Technology Officer at @Handler-Co 🚨
-  </p>
  <p align="center">
   <a href="https://github.com/n3m"><img src="https://img.shields.io/github/followers/n3m.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/alanmn88"><img src="https://img.shields.io/twitter/follow/alanmn88?label=Twitter&style=social" alt="Twitter"></a>
