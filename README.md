@@ -1,11 +1,9 @@
-## Welcome to my cave 😈
-
 <p align="center">
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Alan's Header">
 </p>
 
 <p align="center">
-Full-Stack Software Engineer
+Lead Software Engineer | 23
 </p>
 
 <hr>
