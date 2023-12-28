@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Lead Software Engineer | 23
+Lead Software Engineer | 24
 </p>
 
 <hr>
